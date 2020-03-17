@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "202093423731",
+    "firebase_url": "https://hodhod-706ea.firebaseio.com",
+    "project_id": "hodhod-706ea",
+    "storage_bucket": "hodhod-706ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202093423731:android:36434c1264a8c174",
+        "android_client_info": {
+          "package_name": "com.hodhod.hodohodadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202093423731-gsjoemfe0nqls1rlgp206reqtm9ui85j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXv-WmbVhRCtEmtTMBrg0Argzi6D62VDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202093423731-gsjoemfe0nqls1rlgp206reqtm9ui85j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202093423731-67vr4dkuk2ldqbblg8kk2luofpvdf5pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ibrahim.me.HodHod"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202093423731:android:f854aac0a78f42bf",
+        "android_client_info": {
+          "package_name": "com.revolutan.hodhodclint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202093423731-gsjoemfe0nqls1rlgp206reqtm9ui85j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXv-WmbVhRCtEmtTMBrg0Argzi6D62VDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202093423731-gsjoemfe0nqls1rlgp206reqtm9ui85j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202093423731-67vr4dkuk2ldqbblg8kk2luofpvdf5pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ibrahim.me.HodHod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

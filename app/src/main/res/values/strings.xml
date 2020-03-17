@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HodHod</string>
+    <string name="title_activity_maps">@string/app_name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mount_arafat">جبل عرفات</string>
+    <string name="waste_disposal">بلاغ قمامة</string>
+    <string name="crowding_disposal">crowding</string>
+    <string name="missing_disposal">missing</string>
+    <string name="fatigue_disposal">fatigue</string>
+
+
+    <string-array name="area_arrays">
+        <item>@string/mount_arafat</item>
+    </string-array>
+
+</resources>

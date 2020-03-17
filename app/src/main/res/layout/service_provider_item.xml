@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:background="#333333">
+
+
+    <ImageView
+        android:id="@+id/serviceProviderImageView"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/ic_health"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/serviceNameTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:letterSpacing="-0.03"
+        android:lineSpacingExtra="8sp"
+        android:text="asd;k ask;d as;kd ;"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/serviceProviderImageView"
+        app:layout_constraintTop_toTopOf="@id/serviceProviderImageView" />
+
+
+    <TextView
+        android:id="@+id/serviceNumberTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:letterSpacing="-0.01"
+        android:lineSpacingExtra="4sp"
+        android:text="asd asd asd asd "
+        android:textColor="#999999"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="@+id/serviceNameTextView"
+        app:layout_constraintStart_toStartOf="@+id/serviceNameTextView"
+        app:layout_constraintTop_toBottomOf="@+id/serviceNameTextView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
